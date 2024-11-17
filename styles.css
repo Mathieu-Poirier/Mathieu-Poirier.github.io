@@ -5,6 +5,20 @@ body {
 }
 
 h1 {
+    color: floralwhite;
+    font-family: Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+p {
     color: white;
     font-family: Helvetica, sans-serif;
+    font-size: 12px;
+    padding-top: 1em;
+}
+
+div{
+
+    padding-top: 4em;
+    padding-left: 4em;
 }
